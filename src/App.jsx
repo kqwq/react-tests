@@ -8,7 +8,7 @@ const App = () => {
     <main>
       <h1>React Tests</h1>
       <p>
-        A demo app consisting of a few code tests. View the source code <a href="https://kqwq.github.io/react-tests">here</a>.
+        A demo app consisting of a few code tests. View the source code <a href="https://github.com/kqwq/react-tests">here</a>.
       </p>
       <h2>1. Lazy Loading</h2>
       <p>The following component has an artificial loading delay of 1 second. Reload the page to see the effect. The calculator doesn't do anything.</p>
